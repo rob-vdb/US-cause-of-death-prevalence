@@ -1,6 +1,6 @@
 # US-cause-of-death-prevalence (March 2022)
 
-The goal of this project was to use 3 datasets to compare the actual vs. perceived prevalence of different causes of death in the US from 2004-2016. 
+This project was part of my Introduction to Data Science course. The goal of this project was to use 3 datasets to compare the actual vs. perceived prevalence of different causes of death in the US from 2004-2016. 
 
 1) The CDC dataset contained data of actual causes of death in the US. 
 2) The Google dataset contained search data for causes of death in the US. 
