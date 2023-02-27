@@ -1,4 +1,4 @@
-# US-cause-of-death-prevalence (May 2022)
+# US-cause-of-death-prevalence (March 2022)
 
 The goal of this project was to use 3 datasets to compare the actual vs. perceived prevalence of different causes of death in the US from 2004-2016. 
 
